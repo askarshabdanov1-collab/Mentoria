@@ -1,0 +1,12 @@
+Mentoria Compass / Team Mogger
+Captain: Shabdanov Askar (@LawDirr)
+
+Production product:
+https://mentoria-compass.vercel.app
+
+GitHub repository:
+https://github.com/askarshabdanov1-collab/Mentoria
+
+Demo accounts:
+Student: amina@mentoria.demo / demo123
+Admin: admin@mentoria.demo / admin123
