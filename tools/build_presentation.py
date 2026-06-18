@@ -16,124 +16,124 @@ GITHUB_URL = "https://github.com/askarshabdanov1-collab/Mentoria"
 
 slides = [
     {
-        "label": "Project",
+        "label": "Проект",
         "title": "Mentoria Compass",
-        "subtitle": "Full-stack EdTech hub for opportunities, async learning, AI roadmap and CV review",
+        "subtitle": "Full-stack EdTech-платформа для возможностей, асинхронного обучения, AI-roadmap и анализа CV",
         "bullets": [
-            "Team: Mogger",
-            "Captain: Shabdanov Askar / @LawDirr",
-            f"Production product: {PRODUCT_URL}",
-            f"GitHub repository: {GITHUB_URL}",
-            "Demo accounts: student amina@mentoria.demo / demo123, admin admin@mentoria.demo / admin123",
+            "Команда: Mogger",
+            "Капитан: Шабданов Аскар / @LawDirr",
+            f"Готовый продукт: {PRODUCT_URL}",
+            f"GitHub-репозиторий: {GITHUB_URL}",
+            "Демо-аккаунты: ученик amina@mentoria.demo / demo123, админ admin@mentoria.demo / admin123",
         ],
     },
     {
-        "label": "Problem",
-        "title": "Why Mentoria Needs a Platform",
-        "subtitle": "Telegram and live calls are not enough when the organization grows",
+        "label": "Проблема",
+        "title": "Зачем Mentoria нужна платформа",
+        "subtitle": "Telegram и живые занятия перестают масштабироваться, когда организация растёт",
         "bullets": [
-            "Students miss live lessons because of school, exams, time zones, internet access and personal schedules.",
-            "Opportunities are scattered across websites, Telegram channels, chats and documents.",
-            "Students do not know which competitions, scholarships or programs match their grade, interests and goals.",
-            "Mentoria admins need to add courses and opportunities without rebuilding the website or posting manually.",
-            "Partners, schools and sponsors need to see a professional scalable product, not only a chat community.",
+            "Ученики пропускают живые уроки из-за школы, экзаменов, часовых поясов, интернета и личного расписания.",
+            "Возможности разбросаны по сайтам, Telegram-каналам, чатам и документам.",
+            "Ученикам сложно понять, какие конкурсы, стипендии и программы подходят их классу, интересам и целям.",
+            "Администраторам Mentoria нужно добавлять курсы и возможности без пересборки сайта и ручных постов.",
+            "Партнёрам, школам и спонсорам важно видеть профессиональный масштабируемый продукт, а не только чат.",
         ],
     },
     {
-        "label": "Audience",
-        "title": "Who the Product Is For",
-        "subtitle": "Students in grades 8-11 preparing for growth beyond school",
+        "label": "Аудитория",
+        "title": "Для кого создан продукт",
+        "subtitle": "Ученики 8-11 классов, которые хотят развиваться за пределами школы",
         "bullets": [
-            "Students from Kazakhstan and other countries who want academic and extracurricular opportunities.",
-            "Students preparing for university admissions, IELTS/SAT, scholarships and international programs.",
-            "Students interested in STEM, business, finance, social impact, programming, science and English.",
-            "Mentoria admins and mentors who need one place to manage learning content and student progress.",
+            "Ученики из Казахстана и других стран, которые ищут академические и внеклассные возможности.",
+            "Ученики, готовящиеся к поступлению, IELTS/SAT, стипендиям и международным программам.",
+            "Ученики, которым интересны STEM, бизнес, финансы, social impact, программирование, наука и английский.",
+            "Администраторы и менторы Mentoria, которым нужно управлять контентом и прогрессом учеников в одном месте.",
         ],
     },
     {
-        "label": "Solution",
-        "title": "What Mentoria Compass Does",
-        "subtitle": "One product connecting discovery, learning, progress and applications",
+        "label": "Решение",
+        "title": "Что делает Mentoria Compass",
+        "subtitle": "Один продукт, который соединяет поиск возможностей, обучение, прогресс и заявки",
         "bullets": [
-            "Personal registration and student cabinet with saved opportunities, learning progress and deadlines.",
-            "Opportunity catalog with search, filters and match score based on profile tags.",
-            "Async courses with lessons, video placeholders, mini tasks and progress tracking.",
-            "AI Analysis that produces readiness score, risks, strengths and a weekly action plan.",
-            "Admin panel for publishing opportunities and courses through the backend API.",
+            "Регистрация и личный кабинет ученика с сохранёнными возможностями, прогрессом и дедлайнами.",
+            "Каталог возможностей с поиском, фильтрами и match score на основе профиля.",
+            "Асинхронные курсы с уроками, видео-плейсхолдерами, мини-заданиями и отслеживанием прогресса.",
+            "AI Analysis: readiness score, риски, сильные стороны и недельный план действий.",
+            "Админ-панель для публикации возможностей и курсов через backend API.",
         ],
     },
     {
-        "label": "Journey",
-        "title": "Main User Journey",
-        "subtitle": "Designed to be shown clearly in a 4-minute demo",
+        "label": "Сценарий",
+        "title": "Основной пользовательский путь",
+        "subtitle": "Сценарий удобно показать в 4-минутном демо",
         "bullets": [
-            "Student logs in or registers and fills profile: grade, country, school, English level, interests and goals.",
-            "Compass dashboard recommends opportunities and courses with profile match scores.",
-            "Student saves an opportunity, sees deadline pressure and starts a relevant course.",
-            "Student completes a lesson and the personal cabinet updates progress automatically.",
-            "Student opens AI Analysis and gets next actions for applications and learning.",
-            "Admin logs in and adds a new opportunity, which appears immediately in the catalog.",
+            "Ученик регистрируется или входит и заполняет профиль: класс, страна, школа, английский, интересы и цели.",
+            "Compass dashboard рекомендует возможности и курсы с match score.",
+            "Ученик сохраняет возможность, видит дедлайн и начинает подходящий курс.",
+            "Ученик завершает урок, а личный кабинет автоматически обновляет прогресс.",
+            "Ученик открывает AI Analysis и получает следующие шаги для заявок и обучения.",
+            "Админ входит и добавляет новую возможность, которая сразу появляется в каталоге.",
         ],
     },
     {
         "label": "AI",
-        "title": "AI Roadmap and Recommendations",
-        "subtitle": "Practical analysis that works instantly without external API keys",
+        "title": "AI-roadmap и рекомендации",
+        "subtitle": "Практичный анализ, который работает сразу без внешних API-ключей",
         "bullets": [
-            "Readiness score is calculated from profile completeness, saved opportunities, course progress and deadline urgency.",
-            "The system detects risks: missing saved opportunities, low progress, close deadlines and weak portfolio focus.",
-            "Students receive concrete next actions, not generic advice.",
-            "Weekly plan turns recommendations into daily tasks: choose opportunity, finish lesson, draft answer, ask mentor, submit.",
-            "This helps Mentoria increase retention because students always know the next step.",
+            "Readiness score считается по полноте профиля, сохранённым возможностям, прогрессу курсов и срочности дедлайнов.",
+            "Система находит риски: нет сохранённых возможностей, низкий прогресс, близкие дедлайны, слабый фокус на портфолио.",
+            "Ученик получает конкретные следующие действия, а не общие советы.",
+            "Недельный план превращает рекомендации в задачи: выбрать возможность, пройти урок, написать ответ, спросить ментора, отправить заявку.",
+            "Это повышает удержание: ученик всегда понимает, что делать дальше.",
         ],
     },
     {
         "label": "CV Review",
-        "title": "CV Review: Find Gaps and Improve",
-        "subtitle": "Students can upload or paste a CV and receive application-focused feedback",
+        "title": "CV Review: найти дыры и улучшить",
+        "subtitle": "Ученик может загрузить или вставить CV и получить фидбек под заявки",
         "bullets": [
-            "The platform checks whether the CV has contact details, education, projects, skills, awards and links.",
-            "It detects weak evidence: no numbers, passive bullets, missing portfolio links and unclear achievements.",
-            "Students get a CV readiness score and prioritized gaps to fix first.",
-            "The tool suggests concrete improvements: stronger summary, quantified impact, project section and rewritten bullets.",
-            "CV reviews are saved in the student account so progress can be revisited later.",
+            "Платформа проверяет, есть ли контакты, образование, проекты, навыки, достижения и ссылки.",
+            "Система находит слабые места: нет цифр, пассивные bullets, нет portfolio/GitHub-ссылок, неясные достижения.",
+            "Ученик получает CV readiness score и приоритетные дыры, которые нужно закрыть первыми.",
+            "Инструмент предлагает конкретные улучшения: сильный summary, измеримый impact, проектный раздел и переписанные bullets.",
+            "Анализы CV сохраняются в аккаунте ученика, чтобы можно было вернуться к прогрессу позже.",
         ],
     },
     {
-        "label": "Technology",
-        "title": "Technical Architecture",
-        "subtitle": "Full-stack app deployed to production",
+        "label": "Технологии",
+        "title": "Техническая архитектура",
+        "subtitle": "Full-stack приложение, задеплоенное в production",
         "bullets": [
-            "Frontend: React + Vite dashboard with responsive navigation and product-style UI.",
-            "Backend: Node API with auth, user profile, progress, saved items, admin content and CV analysis routes.",
-            "Authentication: registration, login, logout and bearer-token sessions.",
-            "Deployment: Vercel production app connected to GitHub repository.",
-            "Current storage: JSON seed/serverless storage for hackathon delivery; next production step is Supabase/Neon Postgres.",
+            "Frontend: React + Vite dashboard с адаптивной навигацией и продуктовым UI.",
+            "Backend: Node API с auth, профилем, прогрессом, сохранёнными элементами, админ-контентом и CV analysis routes.",
+            "Аутентификация: регистрация, вход, выход и bearer-token sessions.",
+            "Deployment: production на Vercel, подключённый к GitHub-репозиторию.",
+            "Текущее хранение: JSON seed/serverless storage для хакатона; следующий шаг для production — Supabase/Neon Postgres.",
         ],
     },
     {
         "label": "Impact",
-        "title": "Impact for Mentoria",
-        "subtitle": "How the product helps Mentoria scale beyond manual Telegram workflows",
+        "title": "Влияние для Mentoria",
+        "subtitle": "Как продукт помогает Mentoria масштабироваться за пределы Telegram",
         "bullets": [
-            "Scales async learning: students can study even when they cannot attend live lessons.",
-            "Centralizes opportunities: courses, deadlines, recommendations and saved items are in one place.",
-            "Improves retention: progress bars, deadlines, AI next steps and CV feedback keep students engaged.",
-            "Improves professional image: Mentoria can show schools, sponsors and partners a real digital platform.",
-            "Reduces admin load: admins add opportunities and courses through a panel instead of rebuilding or reposting.",
+            "Масштабирует асинхронное обучение: ученики могут учиться даже без live-занятий.",
+            "Централизует возможности: курсы, дедлайны, рекомендации и сохранённые элементы находятся в одном месте.",
+            "Повышает удержание: progress bars, дедлайны, AI next steps и CV feedback удерживают вовлечённость.",
+            "Усиливает профессиональный имидж: Mentoria может показать школам, спонсорам и партнёрам реальную платформу.",
+            "Снижает нагрузку на админов: возможности и курсы добавляются через панель, без пересборки и ручных постов.",
         ],
     },
     {
         "label": "Roadmap",
-        "title": "What Comes Next",
-        "subtitle": "Clear path from hackathon MVP to real Mentoria product",
+        "title": "Что дальше",
+        "subtitle": "Путь от хакатонного MVP к реальному продукту Mentoria",
         "bullets": [
-            "Connect persistent production database: Supabase or Neon Postgres.",
-            "Add Telegram/email reminders for saved opportunity deadlines.",
-            "Add mentor portal for uploading lessons, checking assignments and leaving feedback.",
-            "Add multilingual interface: Russian, English and Kazakh.",
-            "Add certificates, leaderboard and advanced roadmap for grades 8, 9, 10 and 11.",
-            "Add real AI integration for deeper CV and essay review when API keys are available.",
+            "Подключить постоянную production-базу данных: Supabase или Neon Postgres.",
+            "Добавить Telegram/email-напоминания по дедлайнам сохранённых возможностей.",
+            "Добавить портал менторов для загрузки уроков, проверки заданий и фидбека.",
+            "Добавить мультиязычный интерфейс: русский, английский и казахский.",
+            "Добавить сертификаты, leaderboard и расширенный roadmap для 8, 9, 10 и 11 классов.",
+            "Добавить реальную AI-интеграцию для глубокого анализа CV и эссе при наличии API-ключей.",
         ],
     },
 ]
@@ -203,20 +203,20 @@ def main():
     for idx, item in enumerate(slides, start=1):
         slide = prs.slides.add_slide(blank)
         add_accent(slide, prs, idx, item["label"])
-        add_textbox(slide, 0.72, 0.58, 9.5, 0.44, "MENTORIA COMPASS / TEAM MOGGER", 13, RGBColor(223, 255, 85), True)
+        add_textbox(slide, 0.72, 0.58, 9.5, 0.44, "MENTORIA COMPASS / КОМАНДА MOGGER", 13, RGBColor(223, 255, 85), True)
         add_textbox(slide, 0.7, 0.98, 11.15, 0.82, item["title"], 38, RGBColor(255, 254, 240), True)
         add_textbox(slide, 0.73, 1.78, 11.2, 0.45, item["subtitle"], 17, RGBColor(170, 184, 169), False)
         add_bullets(slide, item["bullets"])
 
     prs.save(OUT)
     LINKS.write_text(
-        "Mentoria Compass / Team Mogger\n"
-        "Captain: Shabdanov Askar (@LawDirr)\n\n"
-        f"Production product:\n{PRODUCT_URL}\n\n"
-        f"GitHub repository:\n{GITHUB_URL}\n\n"
-        "Demo accounts:\n"
-        "Student: amina@mentoria.demo / demo123\n"
-        "Admin: admin@mentoria.demo / admin123\n",
+        "Mentoria Compass / Команда Mogger\n"
+        "Капитан: Шабданов Аскар (@LawDirr)\n\n"
+        f"Готовый продукт:\n{PRODUCT_URL}\n\n"
+        f"GitHub-репозиторий:\n{GITHUB_URL}\n\n"
+        "Демо-аккаунты:\n"
+        "Ученик: amina@mentoria.demo / demo123\n"
+        "Админ: admin@mentoria.demo / admin123\n",
         encoding="utf-8",
     )
     print(OUT)
